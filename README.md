@@ -1,3 +1,5 @@
+![avatar](liferescue.github.io/102.jpg)
+
 ## 项目牵头单位
 
   应急管理部上海消防研究所
