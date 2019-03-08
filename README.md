@@ -1,4 +1,4 @@
-![avatar](liferescue.github.io/102.jpg)
+![](liferescue.github.io/102.jpg)
 
 ## 项目牵头单位
 
