@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 #theme: jekyll-theme-cayman
 title: 国家重点研发计划“复杂灾害条件下生命搜救装备研究与应用示范”项目
-description: 项目牵头单位：应急管理部上海消防研究所
+#description: 项目牵头单位：应急管理部上海消防研究所
 
 archives:
     title: "Posts tagged with {{ page.title }}"
